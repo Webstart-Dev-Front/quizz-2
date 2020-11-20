@@ -39,6 +39,7 @@ console.log(jackpot())
 
 // Bonus: Ecrire une fonction qui reprend l'algorithme du jackpot et qui fait tourner la machine jusqu'a ce qu'il y est un jackpot.
 // Retourner le nombre d'essais avant d'avoir un jackpot.
+// Indice: utiliser une boucle while
 function tryJackpot() {
 
 }
