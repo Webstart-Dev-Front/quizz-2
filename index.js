@@ -28,7 +28,8 @@ function getFileName(url) {
 
 // 5 - Ecrire qui emule le comportement d'une machine à sous.
 // Exectuer la fonction retourne un tableau de 4 elements au hasard et un string du résultat: "Perdu..." ou "JACKPOT !".
-// () => 
+// () => '$-£-$-$ Perdu..'
+
 function jackpot() {
   const cards = ['$', '`£', '@', '€']
 
